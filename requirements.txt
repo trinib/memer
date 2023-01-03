@@ -4,4 +4,7 @@ bs4>=0.0.1
 Pillow>=5.4.1
 gunicorn>=20.0.4
 lxml>=4.5.0
-
+certifi
+charset-normalizer
+idna
+urllib3
